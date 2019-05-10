@@ -3,7 +3,7 @@ Using PySpark to find tweets containing drug terms and perform geospatial analys
 
 ### Filtering Tweets and Aggregating by Census Tract
 
-[Tweet filtering python script](Tweet_flltering_byCensus.py
+[Tweet filtering python script](Tweet_flltering_byCensus.py)
 
 ### Sample Output
 
