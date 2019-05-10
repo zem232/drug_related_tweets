@@ -6,7 +6,7 @@ Using PySpark to find tweets containing drug terms and perform geospatial analys
 * [Illegal drug terms](drug_illegal.txt)
 * [Schedule 2 drug names](drug_sched2.txt)
 * 100 million geo-tagged tweets in the US
- * In CSV format, with | as delimeter
+  * In CSV format, with | as delimeter
 
 100 million geo-tagged tweets in the US
 Source: collected through the Twitter Open API
