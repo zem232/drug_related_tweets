@@ -1,6 +1,17 @@
 # Visualizing drug-related tweets with Pyspark
 Using PySpark to find tweets containing drug terms and perform geospatial analysis.
 
+### Data
+* [500 Cities Census Tract Boundaries](https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-Boundaries/x7zy-2xmx)
+* [Illegal drug terms](drug_illegal.txt)
+* [Schedule 2 drug names](drug_sched2.txt)
+* 100 million geo-tagged tweets in the US
+ * In CSV format, with | as delimeter
+
+100 million geo-tagged tweets in the US
+Source: collected through the Twitter Open API
+The data is in CSV format, however, the delimiter is the pipe character (“|”)
+
 ### Filtering Tweets and Aggregating by Census Tract
 
 [Tweet filtering python script](Tweet_flltering_byCensus.py)
