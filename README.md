@@ -1,11 +1,11 @@
 # Visualizing drug-related tweets with Pyspark
 Using PySpark to find tweets containing drug terms and perform geospatial analysis.
 
-# Filtering Tweets and Aggregating by 
+### Filtering Tweets and Aggregating by Census Tract
 
-python_script.py
+![Tweet_flltering_byCensus.py]
 
-# Sample Output
+### Sample Output
 
 [('0107000-01073000800', 0.0005182689816014512),
  ('0177256-01125012000', 0.000244140625),
